@@ -1,16 +1,16 @@
-# Swiggy-Review-Scrapping-
+# Swiggy Review Scrapping
 # 🧠 Google Play Store Review Trend Analysis
 
 An automated, agentic AI pipeline that fetches Google Play Store reviews, normalizes text, classifies them into human‑explainable topics, and generates a **30‑day trend analysis report table** showing how issues evolve over time.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 (Not applicable — this is a Jupyter Notebook project. See sample outputs in `/output/`.)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python 3.10+
 - Jupyter Notebook
 - pandas (dataframes, aggregation, pivot)
@@ -23,9 +23,9 @@ An automated, agentic AI pipeline that fetches Google Play Store reviews, normal
 
 ## ⚙️ Setup Instructions
 
-1️⃣ **Clone the repository**
+** 1. Clone the repository**
 
-2️⃣ Install dependencies
+Install dependencies
 pip install -r requirements.txt
 
 3️⃣ Run the notebook
