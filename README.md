@@ -42,20 +42,21 @@ jupyter notebook assignment.ipynb
 - Exported CSVs in /output/
 
 ✨ Key Features Implemented
-📝 ### Automated Pipeline
+
+Automated Pipeline
 - Fetches reviews directly from Google Play Store
 - Cleans text with normalization function
 - Classifies reviews into topics using fuzzy + semantic matching
   
-📊 Trend Analysis
+Trend Analysis
 - Groups reviews by date and topic
 - Builds a 30‑day pivot table for trend reporting
   
-🎨 Human‑Explainable Classifier
+Human‑Explainable Classifier
 - Topics defined with seed phrases (e.g. “Delivery issue”, “Food stale”)
 - Transparent logic: fuzzy match → semantic similarity → fallback
   
-📂 Sample Outputs
+Sample Outputs
 - Daily counts (trend_sample.csv)
 - 30‑day trend table (trend_table_30days.csv)
 
