@@ -23,19 +23,19 @@ An automated, agentic AI pipeline that fetches Google Play Store reviews, normal
 
 ## ⚙️ Setup Instructions
 
-** 1. Clone the repository**
+## 1. Clone the repository
 
-Install dependencies
+2. Install dependencies
 pip install -r requirements.txt
 
-3️⃣ Run the notebook
+3. Run the notebook
 jupyter notebook assignment.ipynb
 
-4️⃣ Provide inputs
+4. Provide inputs
 - App store link (e.g. https://play.google.com/store/apps/details?id=in.swiggy.android)
 - Target date (e.g. 2025-12-20)
   
-5️⃣ Generate outputs
+5. Generate outputs
 - Normalized + classified reviews
 - Daily topic counts (trend)
 - Final 30‑day trend analysis table (last_30)
