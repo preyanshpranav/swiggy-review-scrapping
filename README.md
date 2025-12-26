@@ -23,7 +23,7 @@ An automated, agentic AI pipeline that fetches Google Play Store reviews, normal
 
 ## ⚙️ Setup Instructions
 
-## 1. Clone the repository
+1. Clone the repository
 
 2. Install dependencies
 pip install -r requirements.txt
@@ -42,7 +42,7 @@ jupyter notebook assignment.ipynb
 - Exported CSVs in /output/
 
 ✨ Key Features Implemented
-📝 Automated Pipeline
+📝 ### Automated Pipeline
 - Fetches reviews directly from Google Play Store
 - Cleans text with normalization function
 - Classifies reviews into topics using fuzzy + semantic matching
